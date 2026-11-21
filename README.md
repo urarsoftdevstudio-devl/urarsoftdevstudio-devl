@@ -1,16 +1,31 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**urarsoftdevstudio-devl/urarsoftdevstudio-devl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# URARSOFT DEV STUDIO 
+###Urarsoft Dev Studio - Main Proifile 
+| Indie Game studio 
+**unreal engine 4 | Monarft 
 
-Here are some ideas to get you started:
+___
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About 
+Indie game studio building immersive games
+presently with UE4
+Founder & lead dev: urarsoftdevstudio-devl
+
+### Current Project: Monarft | After 
+> Survival Adventure - Built with 
+Unreal Engine 4
+- **Engine:** UE4.27.2 
+- **Genre:** Survival / Narrative 
+- **Status:** In development 
+
+Repo coming soon: "Monarft | After"
+
+### Stack 
+"UE4""survival""adventure"
+
+### Contact
+GitHub: urarsoftdevstudio-devl 
+itch.io: https://urarsoft-dev-studio.itch.io
+Bluesky: urarsoftdevstudio.bsky.social
+Discord: urarsoftdevstudio
