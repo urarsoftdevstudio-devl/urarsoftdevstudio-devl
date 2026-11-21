@@ -5,7 +5,7 @@
 ### Urarsoft Dev Studio - Main Proifile 
 | Indie Game studio 
 
-unreal engine 4 | Monarft 
+unreal engine 4 | Monarft | After
 
 ___
 
@@ -28,6 +28,9 @@ Repo coming soon: "Monarft | After"
 
 ### Contact
 GitHub: urarsoftdevstudio-devl 
+
 itch.io: https://urarsoft-dev-studio.itch.io
-Bluesky: urarsoftdevstudio.bsky.social
-Discord: urarsoftdevstudio
+
+Bluesky: https://urarsoftdevstudio.bsky.social
+
+Discord: https://discord.gg/rbFm66e4DG
