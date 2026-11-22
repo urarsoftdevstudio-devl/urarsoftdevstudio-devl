@@ -13,10 +13,9 @@ There was only the forest now.
 > And that is where Monarft | After
 trutly begins.
 
-[itch.io](https://urarsoft-dev-studio.itch.io)
-• [Bluesky](https://bsky.app/profile/
-urarsoftdevstudio.bsky.social) • [Discord]
-(https://discord.gg/rbFm66e4DG)
+• [itch.io](https://urarsoft-dev-studio.itch.io)
+• [Bluesky](https://bsky.app/profile/urarsoftdevstudio.bsky.social) 
+• [Discord](https://discord.gg/rbFm66e4DG)
 
 </div>
 
