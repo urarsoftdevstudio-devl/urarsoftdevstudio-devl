@@ -27,7 +27,7 @@ Repo coming soon: "Monarft | After"
 "UE4""survival""adventure"
 
 ### Contact
-GitHub: urarsoftdevstudio-devl 
+GitHub: https://github.com/urarsoftdevstudio-devl 
 
 itch.io: https://urarsoft-dev-studio.itch.io
 
